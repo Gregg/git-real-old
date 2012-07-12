@@ -1,1 +1,0 @@
-puts "my product"
